@@ -1,0 +1,5 @@
+* Variables: Son contenedores de información que pueden almacenar varios tipos de datos y que pueden cambiar su valor según sea necesario durante la ejecución del programa.
+* Strings: Es una cadena o bloque de texto.
+* Funciones (argumentos, `return`): Una función es un bloque de código que se escribe una vez y puede ser utilizado varias veces sin tener que reescribirlo. Los argumentos son las variables que utiliza la función y el return el valor o resultado que devuelve la misma.
+* Declaraciones `if`: Es un condicional, evalúa si se cumple una condición. Si la condición es verdadera ejecuta un código y si es falsa ejecuta otro código.
+* Valores booleanos (`true`, `false`): Es un tipo de dato que únicamente tiene dos valores, true (verdadero) o false (falso)
