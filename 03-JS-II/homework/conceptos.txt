@@ -1,0 +1,2 @@
+* `for`: Es un bucle al que se le pasan 3 argumentos. La variable inicial, la condición de parada y el incremento de la variable inicial. Todo lo que esté dentro del for se ejecuta hasta que se cumpla la condición (segundo argumento).
+* `&&`, `||`, `!`: Son operadores lógicos cuyo significado respectivo es `and`, `or`, `not` y se usan para evaluar el cumplimiento de una determinada condición condición.
