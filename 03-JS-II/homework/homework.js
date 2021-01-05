@@ -80,8 +80,11 @@ function esEntero(numero) {
   // Pista: Puedes resolver esto usando `Math.floor`
   // Tu código:
   return numero%1 === 0;
+  /* otras soluciones propuestas son:
+  *usar Math.floor() para obtener la parte entera del numero y restársela al numero y si es 0 es un número entero
+*    if (numero - Math.floor(numero) == 0) 
+*/
 }
-
 function fizzBuzz(numero) {
   // Si "numero" es divisible entre 3, devuelve "fizz"
   // Si "numero" es divisible entre 5, devuelve "buzz"
