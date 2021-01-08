@@ -1,0 +1,1 @@
+*Arrays: Un arreglo o array es similar a una variable, ya que se pueden almacenar datos, solo que en un array se pueden almacenar distintos valores y distintos tipos de datos de una sola vez, ya sean strings, int, booleanos, funciones, etc.
