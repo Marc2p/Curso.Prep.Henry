@@ -1,0 +1,5 @@
+	* Objetos: Es como un array, pero más complejo. Contiene propiedades que asignan valores dentro de ese objeto (es más intuitivo acceder a los valores de un objeto que a los de un array). Sin ir más lejos, un array es un objeto enmascarado, pero más simple.
+	* Propiedades: Es el identificador para cada elemento o valor de un objeto. Sería similar al índice numérico de los arrays.
+	* Métodos: Son funciones incrustadas dentro de un objeto, pero que se pueden invocar como cualquier otra función.
+	* Bucle `for…in`: Sirve para lo mismo que el for, es decir, un bucle que realiza iteraciones sobre cada clave/valor de un objeto. Se utiliza en lugar del for tradicional debido a que los objetos no tienen índice numérico y por lo tanto no se puede crear una variable a incrementar.
+	* Notación de puntos vs notación de corchetes: Son dos maneras distintas de acceder a los elementos de un objeto. Para la notación de corchetes generalmente se usan variables que contienen el nombre de una clave.
